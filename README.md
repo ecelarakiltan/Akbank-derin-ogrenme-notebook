@@ -57,4 +57,4 @@ Projede yalnızca supervised öğrenme yaklaşımı kullanılmıştır.
 
 ## 🔗 Kaggle Notebook Linkleri
 
-•⁠  ⁠[CNN ile Mimari Unsurların Sınıflandırılması]([)]([)](https://www.kaggle.com/code/ecelarakiltan/akbank-derin-ogrenme-notebook)
+•⁠  ⁠[CNN ile Mimari Unsurların Sınıflandırılması](https://www.kaggle.com/code/ecelarakiltan/akbank-derin-ogrenme-notebook)
